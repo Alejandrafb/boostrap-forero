@@ -1,0 +1,63 @@
+h2{
+    color: chocolate;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.btn-card{
+   background-color: coral;
+   color: antiquewhite;
+}
+.card-body{
+    background-color: rgb(238, 196, 162);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.color-nav{
+    background-color: rgb(231, 143, 80);
+}
+.btn-boton-nav{
+    background-color: rgb(95, 52, 32);
+    color: antiquewhite;
+}
+.container-fluid img{
+    width: 4rem;
+    padding: 5px;
+}
+.btn-boton{
+    background-color:rgb(95, 52, 32);
+    color: antiquewhite;
+   
+}
+
+.color-preguntas{
+    background-color: rgb(248, 192, 145);
+}
+
+.footer {
+    background-color: rgb(231, 143, 80);
+}
+
+.redes {
+    display: flex;
+    height: 47px;
+    align-content: center;
+    justify-content: center;
+}
+
+.logoFooter {
+    height: 47px;
+}
+
+footer .derechosA {
+    display: flex;
+    color: rgb(17, 10, 15);
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.carousel-indicators{
+    height: 1rem;
+}
